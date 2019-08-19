@@ -1,0 +1,15 @@
+C:\Users\ddizmang\source\MyCode\NETCore_Selenium\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ddizmang\source\MyCode\NETCore_Selenium\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ddizmang\source\MyCode\NETCore_Selenium\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ddizmang\source\MyCode\NETCore_Selenium\bin\Debug\netcoreapp2.1\NETCore_Selenium.deps.json
+C:\Users\ddizmang\source\MyCode\NETCore_Selenium\bin\Debug\netcoreapp2.1\NETCore_Selenium.runtimeconfig.json
+C:\Users\ddizmang\source\MyCode\NETCore_Selenium\bin\Debug\netcoreapp2.1\NETCore_Selenium.runtimeconfig.dev.json
+C:\Users\ddizmang\source\MyCode\NETCore_Selenium\bin\Debug\netcoreapp2.1\NETCore_Selenium.dll
+C:\Users\ddizmang\source\MyCode\NETCore_Selenium\bin\Debug\netcoreapp2.1\NETCore_Selenium.pdb
+C:\Users\ddizmang\source\MyCode\NETCore_Selenium\obj\Debug\netcoreapp2.1\NETCore_Selenium.csproj.CoreCompileInputs.cache
+C:\Users\ddizmang\source\MyCode\NETCore_Selenium\obj\Debug\netcoreapp2.1\NETCore_Selenium.AssemblyInfoInputs.cache
+C:\Users\ddizmang\source\MyCode\NETCore_Selenium\obj\Debug\netcoreapp2.1\NETCore_Selenium.AssemblyInfo.cs
+C:\Users\ddizmang\source\MyCode\NETCore_Selenium\obj\Debug\netcoreapp2.1\NETCore_Selenium.dll
+C:\Users\ddizmang\source\MyCode\NETCore_Selenium\obj\Debug\netcoreapp2.1\NETCore_Selenium.pdb
+C:\Users\ddizmang\source\MyCode\NETCore_Selenium\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ddizmang\source\MyCode\NETCore_Selenium\obj\Debug\netcoreapp2.1\NETCore_Selenium.csprojAssemblyReference.cache

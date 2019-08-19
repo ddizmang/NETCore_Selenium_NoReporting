@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <add key="Browser" value="Chrome"/>
+  </appSettings>
+  <connectionStrings>
+    <add name="SHOPPINGCNN" connectionString="server=.\SQLEXPRESS;integrated security=true;database=xxxxx" />
+  </connectionStrings>
+</configuration>
